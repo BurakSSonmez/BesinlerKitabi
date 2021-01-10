@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BesinlerKitabi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="besin_ismi">Besin İsmi</string>
+    <string name="besin_kalorisi">Besin Kalorisi</string>
+    <string name="hata_mesaji">Hata! Tekrar Deneyiniz!</string>
+    <string name="besin_karbonhidrati">Besin Karbonhidrati</string>
+    <string name="besin_proteini">Besin Proteini</string>
+    <string name="besin_yagi">Besin Yağı</string>
+</resources>
